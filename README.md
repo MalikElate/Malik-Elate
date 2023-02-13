@@ -1,3 +1,4 @@
+## About me 
 I'm a fullstack software developer interning at Travelers insurance. My development experience includes <a href="https://primeacademy.io/">Prime Digital Academy</a> a full-time and totally immersive coding program. My favorite part of Prime was working in pairs and teams on challenging projects. If you'd like to know more please reach me on <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">LinkedIn</a>. 
 
 ## What I'm coding 
