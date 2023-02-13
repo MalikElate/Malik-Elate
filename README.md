@@ -1,26 +1,26 @@
 ## About me 
-I'm a fullstack software developer interning at Travelers insurance. My development experience includes <a href="https://primeacademy.io/">Prime Digital Academy</a> a full-time and totally immersive coding program. My favorite part of Prime was working in pairs and teams on challenging projects. If you'd like to know more please reach me on <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">LinkedIn</a>. 
+I'm a fullstack software developer interning at Travelers insurance. My development experience includes <a href="https://primeacademy.io/">Prime Digital Academy</a> If you'd like to know more please reach me on <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">LinkedIn</a>. 
 
 ## What I'm coding 
 • Improving my personal site: <a href="https://malikelate.com" target="_blank" target="_blank">MalikElate.com</a>
 
-• Education software using Canvas LMS API: <a href="https://github.com/MalikElate/bulldog-connect" target="_blank">repository</a>
+• My Google Chrome extensions: <a href="https://linktr.ee/woodskull" target="_blank">repository</a>
 
-• Undergrad CS assignments 
+• My Worldle clone <a href="https://www.badwordle.com" target="_blank">Bad Wordle</a> 
 
 ## What I find exciting 
 • Camping and hiking with my friends and pup 
 
-• Learning new languages and frameworks 
+• Publishing code for real users 
 
-• Building applications for real users
+• Building applications that scale 
 
 ## Favorite technologies (listed in order)
-• Front end: React.js, Typescript, HTML 
+• Front end: React.js, AWS, Vite 
 
-• Back end: Node, Python, Flask
+• Back end: Node.js, Flask 
 
-• Hardware: Oculus Quest, MacBook Pro, Whoop Strap
+• Hardware: MacBook Pro, Apple Watch
 
 ## Contact me
 • LinkedIn: <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">Malik Elate</a>
