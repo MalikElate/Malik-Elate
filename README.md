@@ -4,9 +4,9 @@ I'm a fullstack software developer interning at Travelers insurance. My developm
 ## What I'm coding 
 • Improving my personal site: <a href="https://malikelate.com" target="_blank" target="_blank">MalikElate.com</a>
 
-• My Google Chrome extensions: <a href="https://linktr.ee/woodskull" target="_blank">Link Tree</a>
+• My Google Chrome extensions: <a href="https://linktr.ee/woodskull" target="_blank">LinkTree</a>
 
-• My Worldle clone <a href="https://www.badwordle.com" target="_blank">Bad Wordle</a> 
+• My Worldle clone: <a href="https://www.badwordle.com" target="_blank">Bad Wordle</a> 
 
 ## What I find exciting 
 • Camping and hiking with my friends and pup 
