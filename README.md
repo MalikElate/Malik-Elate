@@ -8,23 +8,11 @@ I'm a full time developer. If you'd like to know more please reach me on <a href
 
 • My adobe plugin: <a href="https://exchange.adobe.com/apps/cc/201078/simple-youtube-downloader" target="_blank">Simple Youtube Downloader</a> 
 
-## What I find exciting 
-• Camping and hiking with my friends and pup 
-
-• Publishing code for real users 
-
-• Building applications that scale 
-
-## Favorite technologies (listed in order)
-• Front end: React.js, AWS, Vite 
-
-• Back end: Node.js, Flask 
-
-• Hardware: MacBook Pro, Apple Watch
+• My file shareing service: <a href="https://rapidfiletransfer.com" target="_blank">RapidFileTransfer</a> 
 
 ## Contact me
 • LinkedIn: <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">Malik Elate</a>
 
-• Email: Malik.e1955@gmail.com
+• Twitter: <a href="https://www.twitter.com/in/@skull_wooden" target="_blank">Skull_Wooden</a>
 
 • More code:  <a href="https://github.com/malikelate" target="_blank">GitHub</a>
